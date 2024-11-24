@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2006913</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="title_activity_menu_page">MenuPage</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="instructions2">* By answering with yes/no you will navigate through a story map with over a dozen endings.</string>
+    <string name="instructions3">* Whenever you reach a story ending you will be taken back to the start and can try
+        again.</string>
+
+</resources>
+
+

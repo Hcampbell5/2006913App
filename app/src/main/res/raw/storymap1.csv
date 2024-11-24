@@ -1,0 +1,73 @@
+0,1,1,You are the commander of the elite commando force SEAL TEAM 6 and are about to leave for a crucial mission to assassinate the leader of a fascist regime in the west...,Yes or No to continue
+1,3,2,You are planning the mission and have to decide how to travel...,Do you want to Fly? (No to Drive)
+2,58,33,You drive into the country through several border checkpoints hiding under the seats and now must plan your next steps...,Do you target the Military HQ?(N for Generals House)
+3,4,15,Your flight is about to leave but you have to decide when you get out...,Parachute out? (N to Land)
+4,5,5,You parachute out 10.000 feet over the mansion of the enemy dictator and land under the cover of darkness...,Yes or No to continue
+5,7,6,There are many guards on the property...,Take them out? (N to Sneak past)
+6,8,9,You locate an open window into the mansion...,Go in? (N to find a better entrance)
+7,10,6,You have taken out a guard post in their office...,Search them?
+8,72,72,You trigger a silent alarm and police are en route forcing you to back out... MISSION FAILED,Yes or No to continue
+9,12,11,You keep searching around the gardens for entrances and find a back door which is guarded...,Take out the Guards?
+10,12,12,You find some keys on the guards which allow you to open the front door...,Yes or No to continue
+11,72,72,A guard has spotted you hiding and triggered the alarm forcing your team to back out... MISSION FAILED,Yes or No to continue
+12,14,13,You are inside the property at a stairwell...,Check Upstairs first? (N for Downstairs)
+13,72,72,You made too much noise downstairs and the target had time to escape... MISSION FAILED,Yes or No to continue
+14,73,73,You search the upstairs bedrooms and find the target and detain him to head back to base... MISSION COMPLETED,Yes or No to continue
+15,16,16,You land at an airstrip near to the dictators mansion...,Yes or No to continue
+16,18,17,You quickly pack up your stuff and have to decide whats next...,Head into town to find transport?
+17,26,26,A military convoy passes and manages to capture you taking you to a nearby police station for holding...,Yes or No to continue
+18,19,19,You pass a military truck and hear on the radio a BOLO out for a team of UK soldiers...,Yes or No to continue
+19,22,20,The truck is unmanned and parked...,Search Inside?
+20,21,25,There is a strip of bars nearby...,Hide out Inside?
+21,26,26,A group of soldiers comes into the bar looking for you - apparently the bribe to the doorman wasn't enough and you are taken back to a local police station for holding...,Yes or No to continue
+22,23,23,You search the truck and find some weapons; car keys and even some plain clothes...,Yes or No to continue
+23,24,20,The dictators mansion is close by...,Drive there?
+24,5,5,You have driven to a field behind the palace and parked up - you move into the gardens on foot...,Yes or No to continue
+25,26,26,You are spotted by another patrol looking at the truck - they run after you and capture you taking you back to a local base...,Yes or No to continue
+26,27,27,Back at the police station your team is being held in cells...,Yes or No to continue
+27,31,28,One of your team members is a trained extraction officer...,Break out?
+28,29,30,The guards come in and offer you freedom if you explain your plans...,Leak the plans?
+29,72,72,You tell them what your mission was and they set you free to return to base... MISSION FAILED,Yes or No to continue
+30,72,72,You are kept imprisoned in their jail - you are sure that at some point you will be rescued but can only wait... MISSION FAILED,Yes or No to continue
+31,71,71,You break out using a piece of wire from your trousers...,Yes or No to continue
+32,58,33,You have two choices of target,Target the Generals House first? (N for Military HQ)
+33,34,53,You arrive at the gates to the compound and it is heavily guarded...,Continue in?
+34,35,35,You pull up to the front gate and a staff member asks for an ID,Yes or No to continue
+35,36,49,The security guard notices you panicking...,Take him out?
+36,37,37,With the security guard dealt with the gate can be opened and you drive in...,Yes or No to continue
+37,38,47,The guard was stood in an office and you hear a radio...,Search his post?
+38,39,39,You search the guard and find some ID badges and a set of keys...,Yes or No to continue
+39,40,43,The keys appear to be able to open the houses front door...,Open it?
+40,41,42,You sweep the house and hear a noise upstairs...,Investigate?
+41,73,73,You run upstairs and pass a CCTV monitoring system with your team downstairs on it - you then see the target attempting to escape from his room on the cameras and rush to grab him before he escapes... MISSION COMPLETED,Yes or No to continue
+42,72,72,You continue your search downstairs and as you hear a car alarm go off you notice your target is screeching away in his car - you later find out he was watching you on CCTV from his room upstairs... MISSION FAILED,Yes or No to continue
+43,45,46,You keep walking around the property and take out more guards in the process - you have managed to get a radio from one of them but it is buzzing you and a voice is asking for info on your position...,Respond?
+45,72,72,The guards notice your accent and assume infiltration - the alarm is sounded and you are surrounded... MISSION FAILED,Yes or No to continue
+46,40,49,You use the noise from the radio to close in on the guard asking for your status and take him out..., Use the entrance he was guarding?
+47,48,49,You walk around the palace until outside you spot a guard on the back door..., Take them out?
+48,40,40,You take out the guard and enter through the door to the back of the house...,Yes or No to continue
+49,50,50,You walk around the building and notice a way up to a window on the 1st floor...,Yes or No to continue
+50,52,51,From the first floor window you enter and see two doors...,Take the one on the left?
+51,73,73,You storm in and find the target - he pulls out a weapon but before he can use it is neutralised... MISSION COMPLETED,Yes or No to continue
+52,72,72,You run into the left door and find an empty room full of camera footage on screen - you quickly try to leave but before you can get out of the door you hear a loud bang and can only hope for the best... MISSION FAILED,Yes or No to continue
+53,54,49,You sneak around the back of the property and find a basement hatch...,Go into the basement?
+54,55,55,You walk down into the hatch and to your amazement find a secret underground base...,Yes or No to continue
+55,56,57,There is a big red button on the middle of a console surrounded by screens showing satellite footage...,Press the button?
+56,72,72,You have unknowingly activated a nuclear response mechanism and launched 2 dozen nuclear missiles into the sky targeted at all major cities... maybe they should add a bigger label! MISSION FAILED,Yes or No to continue
+57,73,73,You discover a massive lab in this base and there are countless files and mission critical documents - mission objective has changed and you are instructed to recover as much intel as possible... MISSION SUCCESSFUL ,Yes or No to continue
+58,59,60,You drive past the military base - there is a lot of military activity but you reckon your team can take them...,Attack?
+59,72,72,You storm into the base in your truck only to be immediately stopped by spikes and surrounded by more guards than you could count...MISSION FAILED,Yes or No to continue
+60,61,62,You keep driving round and find a hole in the fence at the back of the base which you could get through - Once through you notice a tunnel which might lead closer to the base..., Go down inside it?
+61,62,62,The tunnel lead nowhere - just a rainy drainpipe and some rats for company - you turn around and leave the tunnel,Yes or No to continue
+62,63,64,You follow a dirt path past several patrols staying undetected until you come up to a way in...,Use the entrance?
+63,72,72,The door was alarmed and you only find out when you find yourself surrounded by enough guards to invade Paris... MISSION FAILED,Yes or No to continue
+64,65,66,You keep following paths until you see a lone guard post...,Take out the Guard?
+65,67,67,You take out the guard and use their key card to gain entry to the compound...,Yes or No to continue
+66,67,67,Just after passing that door you find a door in front of you opens and you manage to slip in behind a guard without being seen...,Yes or No to continue
+67,68,70,You find a basement with a secret wall...,Tear through it to see behind?
+68,69,70,You find a secret room full of classified documents...,Take copies?
+69,73,73,You successfully scan copies of critical information which is sent back to base... MISSION COMPLETED,Yes or No to continue
+70,72,72,You search through the rest of the base and find very little - on your way out you are spotted by guards and get captured... MISSION FAILED,Yes or No to continue
+71,58,58,You escape in a truck and contact the base...,Do you wish to continue to objective B (A Military Base 10 clicks north)?
+72,0,0,MISSION FAILED! You will now be taken back to the start of the game!,Yes or No to continue
+73,0,0,MISSION COMPLETED! You will now be taken back to the start of the game!,Yes or No to continue
